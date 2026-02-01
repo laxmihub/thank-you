@@ -1,0 +1,16 @@
+thank-you/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   ├── you.png
+│   ├── cake.png
+│   ├── paper-ball.png
+│   └── paper-open.png
+│
+└── sounds/
+    ├── cut.mp3
+    ├── crumple.mp3
+    └── open.mp3
